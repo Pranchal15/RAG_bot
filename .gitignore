@@ -1,0 +1,25 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ignore system files
+.DS_Store
+
+# Ignore virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Ignore model files
+models/
+*.safetensors
+*.bin
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore logs and checkpoints
+*.log
+checkpoints/
