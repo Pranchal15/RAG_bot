@@ -1,0 +1,27 @@
+# App
+streamlit
+
+# LangChain & community modules
+langchain
+langchain-community
+langchain-core
+
+# LLM backend via OpenAI-compatible API (served by vLLM)
+openai
+
+# Embedding models
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# File loaders
+PyPDF2
+
+# Tokenization & Transformers
+transformers
+torch
+accelerate
+
+# Utility
+tqdm
