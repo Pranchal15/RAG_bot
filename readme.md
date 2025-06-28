@@ -68,6 +68,6 @@ Make sure the vLLM server is running on `http://localhost:8000/v1`.
 ## 📬 Contributing
 
 Found a bug or have a feature request?  
-Feel free to [open an issue - https://github.com/Pranchal15/RAG_bot_streamlit/issues/new]((https://github.com/Pranchal15/RAG_bot_streamlit/issues/new)) or submit a PR.
+Feel free to [open an issue - https://github.com/Pranchal15/RAG_bot_streamlit/issues/new](https://github.com/Pranchal15/RAG_bot_streamlit/issues/new) or submit a PR.
 
 ---
