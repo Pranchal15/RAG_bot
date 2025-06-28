@@ -26,3 +26,4 @@ accelerate
 
 # Utility
 tqdm
+dotenv

@@ -3,7 +3,9 @@ from loaders.file_loader import load_file
 from utils.text_splitter import split_documents
 from utils.embedder import create_vectorstore
 from rag.qa_pipeline import get_qa_chain
+from dotenv import load_dotenv
 
+load_dotenv()
 st.title("📄 RAG Chatbot with File Upload")
 
 uploaded_files = st.file_uploader("Upload documents", accept_multiple_files=True, type=["pdf", "docx", "txt"])
