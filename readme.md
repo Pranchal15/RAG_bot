@@ -7,7 +7,7 @@ It supports local inference with Mistral-7B and allows PDF-based question answer
 
 ## 🚀 Live Demo
 
-👉 [Try it out on Streamlit Cloud](https://pranchal15-rag-bot-streamlit-app-5kqfex.streamlit.app/)
+👉 [Try it out on Streamlit Cloud - https://pranchal15-rag-bot-streamlit-app-5kqfex.streamlit.app/](https://pranchal15-rag-bot-streamlit-app-5kqfex.streamlit.app/)
 
 > ⚠️ This is a work in progress. Feedback and contributions are welcome!
 
@@ -68,6 +68,6 @@ Make sure the vLLM server is running on `http://localhost:8000/v1`.
 ## 📬 Contributing
 
 Found a bug or have a feature request?  
-Feel free to [open an issue]((https://github.com/Pranchal15/RAG_bot_streamlit/issues/new)[https://github.com/Pranchal15/RAG_bot_streamlit/issues/new]) or submit a PR.
+Feel free to [open an issue - https://github.com/Pranchal15/RAG_bot_streamlit/issues/new]((https://github.com/Pranchal15/RAG_bot_streamlit/issues/new)) or submit a PR.
 
 ---
