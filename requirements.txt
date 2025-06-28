@@ -17,6 +17,10 @@ faiss-cpu
 
 # File loaders
 PyPDF2
+PyMuPDFLoader
+Docx2txtLoader
+TextLoader
+tempfil
 
 # Tokenization & Transformers
 transformers
